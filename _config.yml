@@ -1,9 +1,9 @@
 # Base configs
 baseurl: "https://jayhope.me"
 # baseurl: "" # Comment the above line and uncomment this to test the website locally
-image_fulls_loc: "/images/fulls"
-image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+image_fulls_loc: "/images/"
+image_thumbs_loc: "/images/"
+google_analytics: ""
 
 # UI configs
 title: "Jay Hope Photography"
